@@ -4,7 +4,9 @@
 
 Olá, meu Nome é Flávio Diego dos Reis (Fladir), e este é o resultado do meu desafio.
 
-## Acesse o link https://fladireis.github.io/itelios-frontend-challenge/
+## Como Executar
+
+Acesse o link https://fladireis.github.io/itelios-frontend-challenge/
 
 - A prateleira apresentada deve seguir o [seguinte design](desafio-front-end-itelios.jpg)
 - Baseado neste layout, faça uma adaptação responsiva para celulares.
