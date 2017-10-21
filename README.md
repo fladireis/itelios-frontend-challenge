@@ -2,14 +2,11 @@
 
 # Itelios Frontend Challenge
 
-Bem-vindo ao desafio de admissão de front-end da Itelios! O que preparamos para este desafio é um pedacinho do que você irá fazer aqui na Itelios, caso seja admitido.
+Olá, meu Nome é Flávio Diego dos Reis (Fladir), e este é o resultado do meu desafio.
 
-O objetivo do desafio é simples: Consumir uma json via xhttp e, com o resultado dele, montar um widget de prateleira de cross-sell. Na resposta deste request você receberá uma lista de produtos. Esta lista servirá para montar um pequeno carrossel de produtos. 
+## Como Executar
 
-## Design
-
-- A prateleira apresentada deve seguir o [seguinte design](desafio-front-end-itelios.jpg)
-- Baseado neste layout, faça uma adaptação responsiva para celulares.
+<a href="http://example.com/" target="_blank">Hello, world!</a>
 
 ## Como realizar o teste
 
