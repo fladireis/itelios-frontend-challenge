@@ -6,8 +6,7 @@ Olá, meu Nome é Flávio Diego dos Reis (Fladir), e este é o resultado do meu 
 
 ## Como Executar
 
-<a href="http://example.com/" target="_blank">Hello, world!</a>
-
+[adjustable](http://google.com "Giiidd"){:target="_blank"}
 ## Como realizar o teste
 
 - Faça um fork deste repositório em seu GitHub
